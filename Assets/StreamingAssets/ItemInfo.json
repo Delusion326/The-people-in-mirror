@@ -1,0 +1,12 @@
+[
+{"id":1,"name":"日历_1","icon":"日历_1","info":"“今天才六点怎么天就黑了，出任务要注意了，回来再看看家里有什么吃的......”","isScene":false,"toScene":""},
+{"id":2,"name":"日历_2","icon":"日历_2","info":"“今天浴缸的水龙头坏了一直放水，幸好有水位线限制装置，不然就要把家里淹了，不过我还是全身都湿了！”","isScene":true,"toScene":"GameScene_2_bathRoom"},
+{"id":3,"name":"日历_3","icon":"日历_3","info":"“工具箱的密码锁今天打不开了，还好我有写密码提示的习惯，不过这是多久以前的提示了，也不知道能不能信。”","isScene":true,"toScene":"GameScene_4_bedRoom"},
+{"id":4,"name":"日历_4","icon":"日历_4","info":"“今天用工具补门的时候不小心砸到镜子了，碎了一地差点弄伤我”","isScene":true,"toScene":"GameScene_1_livingRoom"},
+{"id":5,"name":"手电筒","icon":"手电筒","info":"出任务时不止能用来照明的特殊手电筒","isScene":false,"toScene":""},
+{"id":6,"name":"锤子","icon":"锤子","info":"用来破坏某些物品的小锤子","isScene":false,"toScene":""},
+{"id":7,"name":"木塞","icon":"木塞","info":"可拔取的木头活塞","isScene":false,"toScene":""},
+{"id":8,"name":"锤头","icon":"锤头","info":"锤头","isScene":false,"toScene":""},
+{"id":9,"name":"锤柄","icon":"锤柄","info":"锤柄","isScene":false,"toScene":""},
+{"id":10,"name":"镜子碎片","icon":"镜子碎片","info":"镜子碎片","isScene":false,"toScene":""}
+]
